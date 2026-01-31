@@ -1,3 +1,1 @@
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LibinThankayathil&label=Profile views&color=0e75b6&style=flat" alt="LibinThankayathil" /> </p>
